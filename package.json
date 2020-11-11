@@ -1,0 +1,26 @@
+{
+  "name": "objects-oriented-javascript-products-webapp",
+  "version": "1.0.0",
+  "description": "Products Web App made with Objects Oriented Javascript.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaztWeb/javascript-products-app-oop.git"
+  },
+  "keywords": [],
+  "author": "Ignacio Ceaglio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaztWeb/javascript-products-app-oop/issues"
+  },
+  "homepage": "https://github.com/FaztWeb/javascript-products-app-oop#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
