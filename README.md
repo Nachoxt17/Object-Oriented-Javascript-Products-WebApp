@@ -5,4 +5,5 @@ This is a simple Vanilla Javascript Frontend CRUD that uses Object Orientend Pro
 # Start the Project
 
 npm install
+
 npm start
